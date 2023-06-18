@@ -1,0 +1,38 @@
+header{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 100%;
+ background: #3a5a2b;
+}
+header a{
+ text-decoration: none;
+ width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+header a img{
+ height: 78px;
+}
+.img-box{
+ border: #9F9F9F 20px solid;
+ width: 75%;
+ background-image: url('him\ 1.png');
+ height: 200px;
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+}
+.payment{
+ font-size: 20px;
+ padding: 6px 12px;
+ font-weight: 400;
+ border-radius: 6px;
+}
+.payment option{
+ font-size: 20px;
+}
+input::placeholder,textarea::placeholder{
+ color: #000000;
+}
