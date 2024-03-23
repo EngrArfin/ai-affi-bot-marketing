@@ -1,12 +1,10 @@
 ## University Projects
-  ![Varsity Project Book](https://github.com/EngrArfin/ai-affi-bot-marketing/assets/120125822/3ae3e247-13ec-47b1-a95c-46e07249f63d)
-
-Ai Affi Bot Marketing Project is,...
 ![reg](https://github.com/EngrArfin/ai-affi-bot-marketing/assets/120125822/77cf924f-2b9b-4b70-ab8d-b5d659ee5f2c)
 
+Ai Affi Bot Marketing Project is,...
+
+  ![Varsity Project Book](https://github.com/EngrArfin/ai-affi-bot-marketing/assets/120125822/3ae3e247-13ec-47b1-a95c-46e07249f63d)
 --------------------------------------Project Details' --------------------------------------------------------\
-
-
 
 ![selsandcomission1](https://github.com/EngrArfin/ai-affi-bot-marketing/assets/120125822/768465cc-546f-4ded-b46a-b9fd4d24163a)
 
